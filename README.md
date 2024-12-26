@@ -1,8 +1,7 @@
 # App for Learning about weather_Prediction
  
 
-m
-# 🌦️ Weather Prediction System
+                                                                                    # 🌦️ Weather Prediction System
 
 ## Overview
 The Climate Prediction System is a machine learning-based web application developed with **Streamlit**. It allows users to predict weather conditions (drizzle, rain, fog, sun, snow) based on various climate features such as temperature, precipitation, wind speed, and more. The app uses multiple machine learning models like **Random Forest**, **Logistic Regression**, and **Support Vector Machine (SVM)** to make accurate predictions.
